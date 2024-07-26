@@ -1,0 +1,8 @@
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.61);
+    padding: 1rem 4rem;
+    /* filter: blur(10px); */
+}
