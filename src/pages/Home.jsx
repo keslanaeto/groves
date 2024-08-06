@@ -17,7 +17,7 @@ const Home = () => {
        <section className='landing-page'>
         <div className='background'></div>
           <h1>Transform your small 
-            Space into a Green Oasis</h1>
+            Space into a Green Oasis kapish</h1>
        </section>
        <Plantcont data={sect}/>
        <Plantcont data={secttwo}/>
